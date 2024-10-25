@@ -20,12 +20,15 @@ marquee { color: chocolate;
 p {text-align: center;
 font-style: oblique;
 color: rgb;
-
-
 }
 
+p2 {text-align: center;
+color: rgb;
+font-style: oblique;
+}
+
+
 br {text-align: center;
-color:pink;
 }
 
 ul {list-style-type: none;
