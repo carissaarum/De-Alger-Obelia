@@ -15,7 +15,7 @@ marquee { color: chocolate;
 }
 
 
-h2 {text-align: left;
+p {text-align: left;
 font-style: oblique;
 color: pink;
 
@@ -24,11 +24,6 @@ color: pink;
 
 br {text-align: left;
 color:pink;
-}
-
-h3 {text-align: right;
-font-style: oblique;
-color: pink;
 }
 
 ul {list-style-type: none;
