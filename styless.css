@@ -17,16 +17,20 @@ marquee { color: chocolate;
 }
 
 
-p {text-align: center;
-font-style: oblique;
-color: black;
+p {
+   text-align: center;
+   font-style: oblique;
+   color: black;
 }
 
-p1 {text-align: center;
+h2 {
+    text-align: center;
+    color: chocolate;
 }
 
 
-br {text-align: center;
+br {
+    text-align: center;
 }
 
 ul {list-style-type: none;
