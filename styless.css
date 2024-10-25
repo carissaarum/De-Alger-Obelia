@@ -6,22 +6,25 @@ body {background-color: beige;
 }
 
 h1 {
-     text-align: center;
+    text-align: center;
     font-family: times new roman;
     font-weight: bold;
     color: chocolate;
 }
-marquee { color: white;
+marquee { color: chocolate;
 }
 
 
-p {text-align: center;
+p {text-align: left;
 font-style: oblique;
-color: white;
+color: pink;
 
 
 }
 
+br {text-align: left;
+color:pink;
+}
 
 ul {list-style-type: none;
 
