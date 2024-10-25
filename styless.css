@@ -15,14 +15,14 @@ marquee { color: chocolate;
 }
 
 
-p {text-align: left;
+p {text-align: center;
 font-style: oblique;
-color: pink;
+color: rgb;
 
 
 }
 
-br {text-align: left;
+br {text-align: center;
 color:pink;
 }
 
