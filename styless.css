@@ -24,6 +24,7 @@ p {
    color: black;
 }
 
+
 h4 {
     text-align: center;
     color: rgb(244, 138, 154);
@@ -46,8 +47,8 @@ color: rgb(255, 221, 227);padding: 15px;
 background-color: rgb(244, 138, 154);
 opacity: 2;
 transition: opacity 0.5s;
-margin-bottom: 15px;
-border-radius: 50px;
+margin-bottom: 10px;
+border-radius: 30px;
 }
 
 nav {
