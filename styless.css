@@ -4,7 +4,7 @@ body {background-color: rgb(246, 245, 242);
 background-size: cover;
 
 
-
+.header{
 }
 
 h1 {
@@ -17,7 +17,8 @@ h1 {
 marquee {color: pink;
 }
 
-
+.coloumn1 {color: hot pink;
+}
 p {
    text-align: center;
    font-style: oblique;
@@ -30,8 +31,11 @@ h4 {
 }
 
 
-br {
-    text-align: center;
+.p2 {
+    text-align: right;
+}
+
+.p4 { text-align: right;
 }
 
 ul {list-style-type: none;
