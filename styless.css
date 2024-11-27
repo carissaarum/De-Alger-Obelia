@@ -25,18 +25,43 @@ p {
 }
 
 
-h4 {
-    text-align: center;
-    color: rgb(244, 138, 154);
-}
+.coloumn1 {
 
+}
 
 .p2 {
-    text-align: right;
+    text-align: center;
+    color: hot pink;
 }
 
-.p4 { text-align: right;
+.p3 {text-align: right;
 }
+
+.coloumn2 {
+}
+
+.p4 { text-align: center;
+      color: hot pink;
+}
+
+.coloumn3 {
+}
+
+.p6 { text-align: center;
+      color: hot pink;
+}
+
+
+.p7 { text-align: right;
+}
+
+.coloumn4 { 
+}
+
+.p8 { text-align: center;
+      color:  hot pink;
+}
+
 
 ul {list-style-type: none;
 
