@@ -28,12 +28,14 @@ p {
    text-align: center;
    font-style: oblique;
    color: black;
+   max-width: 800px;
 }
 
-br {
+.p {
    text-align: center;
    font-style: oblique;
    color: black;
+   max-width: 800px;
 }
 
  li {display:inline;
