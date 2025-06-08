@@ -4,8 +4,13 @@ body {background-color: rgb(246, 245, 242);
 background-size: cover;
 
 
-.header{
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 h1 {
     text-align: center;
@@ -24,44 +29,15 @@ p {
    color: black;
 }
 
-
-.coloumn1 {
-
-}
-
-.p2 {
+h4 {
     text-align: center;
-    color: FFCBCB;
-}
-
-.p3 {text-align: right;
-}
-
-.coloumn2 {
-}
-
-.p4 { text-align: center;
-      color: FFCBCB;
-}
-
-.coloumn3 {
-}
-
-.p6 { text-align: center;
-      color: FFCBCB;
+    color: rgb(244, 138, 154);
 }
 
 
-.p7 { text-align: right;
+br {
+    text-align: center;
 }
-
-.coloumn4 { 
-}
-
-.p8 { text-align: center;
-      color:  FFCBCB;
-}
-
 
 ul {list-style-type: none;
 
@@ -72,8 +48,8 @@ color: rgb(255, 221, 227);padding: 15px;
 background-color: rgb(244, 138, 154);
 opacity: 2;
 transition: opacity 0.5s;
-margin-bottom: 10px;
-border-radius: 30px;
+margin-bottom: 15px;
+border-radius: 50px;
 }
 
 nav {
