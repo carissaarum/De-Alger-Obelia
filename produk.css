@@ -13,11 +13,10 @@ h1 {
 }
 
 
-marquee 
-{
-    color: rgb(225, 225, 225);
-    font-family:serif;
+marquee {color: pink;
+
 }
+
 
 
 p {

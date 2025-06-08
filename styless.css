@@ -24,11 +24,18 @@ marquee {color: pink;
 }
 
 
-p {
+p1 {
    text-align: center;
    font-style: oblique;
    color: black;
 }
+
+p2 {
+   text-align: center;
+   font-style: oblique;
+   color: black;
+}
+
  li {display:inline;
 color: rgb(255, 221, 227);padding: 15px;
 background-color: rgb(244, 138, 154);
