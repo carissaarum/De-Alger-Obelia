@@ -16,11 +16,13 @@ marquee {color: pink;
 h4 {
     text-align: center;
     color: rgb(244, 138, 154);
+
 }
 
 
 br {
     text-align: center;
+
 }
 
 ul {list-style-type: none;
