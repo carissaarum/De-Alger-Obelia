@@ -45,11 +45,9 @@ p {
   text-align: center;
   color: rgb(58, 5, 25);
 
-ul {list-style-type: none;
 
-}
 
-li {display:inline;
+ li {display:inline;
 color: rgb(255, 221, 227);padding: 15px;
 background-color: rgb(244, 138, 154);
 opacity: 2;
@@ -71,6 +69,4 @@ gap: 2rem;
 list-style-type: none;
 align-items: center;
 }
-
-
 
