@@ -18,19 +18,6 @@ h1 {
 marquee {color: pink;
 }
 
-h2 {
-  text-align: center;
-  color: rgb(214, 51, 132);
-  font-size: 1.2em;
-
-}
-
-
-p {
-  text-align: center;
-  color: rgb(58, 5, 25);
-
-
 .card {
   border: 2px solid #f5c6d6;
   border-radius: 12px;
@@ -51,11 +38,24 @@ p {
   
 }
 
+h2 {
+    text-align: center;
+    color: rgb(244, 138, 154);
+
+}
 
 
+h2 {
+  color: rgb(214, 51, 132);
+  font-size: 1.2em;
 
+}
 
- li {display:inline;
+ul {list-style-type: none;
+
+}
+
+li {display:inline;
 color: rgb(255, 221, 227);padding: 15px;
 background-color: rgb(244, 138, 154);
 opacity: 2;
@@ -77,4 +77,6 @@ gap: 2rem;
 list-style-type: none;
 align-items: center;
 }
+
+
 
