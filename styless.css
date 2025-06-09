@@ -1,6 +1,6 @@
 /* Place your CSS styles in this file */
 
-body {background-color: rgb(255, 247, 209);
+body {background-color: rgb(254, 250, 224);
 background-size: cover;
 
 
@@ -31,16 +31,11 @@ p {
    margin-left: 20;
    margin-right: 20;
    font-style: oblique;
-   color: black;
+   color: rgb(204, 213, 174);
    max-width: 650px;
 }
 
-.p {
-   text-align: center;
-   font-style: oblique;
-   color: black;
-   max-width: 500px;
-}
+
 
  li {display:inline;
 color: rgb(255, 221, 227);padding: 15px;
