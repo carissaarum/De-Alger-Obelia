@@ -29,6 +29,7 @@ p {
    position: center;
    margin-left: 50;
    margin-right: 50;
+   max-width: 650px;
    font-style: oblique;
    color: rgb(58, 5, 25);
 
