@@ -18,6 +18,19 @@ h1 {
 marquee {color: pink;
 }
 
+h2 {
+  text-align: center;
+  color: rgb(214, 51, 132);
+  font-size: 1.2em;
+
+}
+
+
+p {
+  text-align: center;
+  color: rgb(58, 5, 25);
+
+
 .card {
   border: 2px solid #f5c6d6;
   border-radius: 12px;
@@ -39,11 +52,6 @@ marquee {color: pink;
 }
 
 
-
-
-p {
-  text-align: center;
-  color: rgb(58, 5, 25);
 
 
 
