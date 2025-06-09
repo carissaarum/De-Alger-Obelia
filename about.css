@@ -6,12 +6,6 @@ background-size: cover;
 
 }
 
-img {
-    position: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
 
 h1 {
     text-align: center;
@@ -35,26 +29,27 @@ marquee {color: pink;
 }
 
 .profile-img {
-  position: center;
+  display: block;
+  margin: 10px auto;
   width: 100%;
   max-width: 250px;
   height: auto;
   border-radius: 8px;
-  margin: 10px 0;
-}
-
-h2 {
-    text-align: center;
-    color: rgb(244, 138, 154);
-
+  
 }
 
 
+
 h2 {
+  text-align: center;
   color: rgb(214, 51, 132);
   font-size: 1.2em;
 
 }
+
+p {
+  text-align: center;
+  color: rgb(58, 5, 25);
 
 ul {list-style-type: none;
 
