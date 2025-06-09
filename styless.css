@@ -36,6 +36,12 @@ p {
    padding: 10px;
 }
 
+h2 {
+  text-align: center;
+  color: rgb(214, 51, 132);
+  font-size: 1.2em;
+
+}
 
 
  li {display:inline;
