@@ -27,10 +27,11 @@ marquee {color: pink;
 
 p {
    position: center;
-   font-style: oblique;
-   color: rgb(58, 5, 25);
    margin-left: auto;
    margin-right: auto;
+   font-style: oblique;
+   color: rgb(58, 5, 25);
+
 
 }
 
