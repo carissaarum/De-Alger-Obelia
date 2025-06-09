@@ -27,10 +27,8 @@ marquee {color: pink;
 
 p {
    text-align: center;
-   margin-left: 20;
-   margin-right: 20;
    font-style: oblique;
-   color: rgb(83, 59, 77);
+   color: rgb(58, 5, 25);
    max-width: 650px;
 }
 
