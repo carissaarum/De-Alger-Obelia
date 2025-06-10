@@ -29,6 +29,12 @@ marquee {color: pink;
 
 }
 
+.scratch-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px; /* Jarak dari atas jika perlu */
+}
 
 
 p {
